@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 614" role="img" aria-label="MinJoo Kang, DevOps / Cloud Engineer. Stack: AWS (ECS, EKS, Lambda, RDS, DynamoDB, CloudFront), Oracle Cloud, Kubernetes, Helm, Argo CD, Terraform, CloudFormation, GitHub Actions, TypeScript, NestJS, PostgreSQL, MySQL, Redis, Nginx, Kong, Prometheus, Grafana, Loki">
+<defs><pattern id="dots-dark" width="16" height="16" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#1c222b"/></pattern><marker id="arrow-dark" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 z" fill="#4493f8"/></marker></defs>
+<style>.flow-dark{stroke-dasharray:6 5;animation:flow-dark .9s linear infinite}@keyframes flow-dark{to{stroke-dashoffset:-11}}@media (prefers-reduced-motion:reduce){.flow-dark{animation:none}}</style>
+<rect x="0" y="0" width="840" height="614" fill="url(#dots-dark)"/>
+<text x="18" y="98.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="12" fill="#9198a1">0.0.0.0/0</text>
+<text x="18" y="127.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="15" fill="#f0f6fc" font-weight="600">You</text>
+<path d="M54 122 H102" stroke="#4493f8" stroke-width="1.6" fill="none" class="flow-dark" marker-end="url(#arrow-dark)"/>
+<rect x="118" y="20" width="704" height="574" rx="4" fill="none" stroke="#9198a1" stroke-width="1" stroke-dasharray="5 4"/>
+<rect x="128" y="10" width="206" height="20" fill="#0d1117"/>
+<text x="136" y="25" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="12" fill="#9198a1">vcn-minjoo-prd  10.0.0.0/16</text>
+<rect x="104" y="110" width="28" height="24" rx="3" fill="#0d1117" stroke="#4493f8" stroke-width="1.4"/>
+<text x="118" y="126.0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="9" fill="#4493f8" text-anchor="middle">igw</text>
+<path d="M132 122 H150" stroke="#4493f8" stroke-width="1.6" fill="none" class="flow-dark"/>
+<rect x="150" y="52" width="262" height="140" rx="4" fill="#0d1117" stroke="#3d444d"/>
+<text x="166" y="80" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11" fill="#9198a1">sn-public-hello  10.0.0.0/24</text>
+<text x="166" y="124" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="30" fill="#f0f6fc" font-weight="600">MinJoo Kang</text>
+<text x="166" y="154" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="15" fill="#9198a1">DevOps / Cloud Engineer</text>
+<path d="M281 192 V238" stroke="#4493f8" stroke-width="1.6" fill="none" class="flow-dark" marker-end="url(#arrow-dark)"/>
+<rect x="150" y="240" width="262" height="322" rx="4" fill="#0d1117" stroke="#3d444d"/>
+<text x="166" y="268" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11" fill="#9198a1">sn-private-services  10.0.10.0/24</text>
+<text x="166" y="312" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="13" fill="#4493f8" font-weight="600">services</text>
+<text x="166" y="338" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="17" fill="#f0f6fc" font-weight="600">Backend + Data</text>
+<circle cx="169" cy="365" r="1.6" fill="#4493f8"/>
+<text x="175" y="370" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="14" fill="#f0f6fc">TypeScript</text>
+<circle cx="278.0" cy="365" r="1.6" fill="#4493f8"/>
+<text x="284.0" y="370" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="14" fill="#f0f6fc">NestJS</text>
+<circle cx="169" cy="399" r="1.6" fill="#4493f8"/>
+<text x="175" y="404" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="14" fill="#f0f6fc">PostgreSQL</text>
+<circle cx="278.0" cy="399" r="1.6" fill="#4493f8"/>
+<text x="284.0" y="404" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="14" fill="#f0f6fc">MySQL</text>
+<circle cx="345.0" cy="399" r="1.6" fill="#4493f8"/>
+<text x="351.0" y="404" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="14" fill="#f0f6fc">Redis</text>
+<text x="166" y="466" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="13" fill="#4493f8" font-weight="600">network</text>
+<text x="166" y="492" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="17" fill="#f0f6fc" font-weight="600">Edge</text>
+<circle cx="169" cy="519" r="1.6" fill="#4493f8"/>
+<text x="175" y="524" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="14" fill="#f0f6fc">Nginx</text>
+<circle cx="236.0" cy="519" r="1.6" fill="#4493f8"/>
+<text x="242.0" y="524" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="14" fill="#f0f6fc">Kong</text>
+<path d="M412 122 H458" stroke="#4493f8" stroke-width="1.6" fill="none" class="flow-dark" marker-end="url(#arrow-dark)"/>
+<rect x="460" y="52" width="330" height="510" rx="4" fill="#0d1117" stroke="#3d444d"/>
+<text x="476" y="80" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11" fill="#9198a1">sn-private-platform  10.0.20.0/24</text>
+<text x="476" y="124" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="13" fill="#4493f8" font-weight="600">cloud</text>
+<text x="476" y="150" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="17" fill="#f0f6fc" font-weight="600">AWS + Oracle Cloud</text>
+<circle cx="479" cy="177" r="1.6" fill="#4493f8"/>
+<text x="485" y="182" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="14" fill="#f0f6fc">ECS</text>
+<circle cx="529.2" cy="177" r="1.6" fill="#4493f8"/>
+<text x="535.2" y="182" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="14" fill="#f0f6fc">EKS</text>
+<circle cx="579.4" cy="177" r="1.6" fill="#4493f8"/>
+<text x="585.4" y="182" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="14" fill="#f0f6fc">Lambda</text>
+<circle cx="654.8" cy="177" r="1.6" fill="#4493f8"/>
+<text x="660.8" y="182" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="14" fill="#f0f6fc">RDS</text>
+<circle cx="479" cy="211" r="1.6" fill="#4493f8"/>
+<text x="485" y="216" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="14" fill="#f0f6fc">DynamoDB</text>
+<circle cx="571.2" cy="211" r="1.6" fill="#4493f8"/>
+<text x="577.2" y="216" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="14" fill="#f0f6fc">ElastiCache</text>
+<circle cx="479" cy="245" r="1.6" fill="#4493f8"/>
+<text x="485" y="250" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="14" fill="#f0f6fc">CloudFront</text>
+<circle cx="588.0" cy="245" r="1.6" fill="#4493f8"/>
+<text x="594.0" y="250" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="14" fill="#f0f6fc">SES</text>
+<circle cx="638.2" cy="245" r="1.6" fill="#4493f8"/>
+<text x="644.2" y="250" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="14" fill="#f0f6fc">OKE</text>
+<text x="476" y="312" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="13" fill="#4493f8" font-weight="600">devops</text>
+<text x="476" y="338" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="17" fill="#f0f6fc" font-weight="600">Kubernetes + GitOps</text>
+<circle cx="479" cy="365" r="1.6" fill="#4493f8"/>
+<text x="485" y="370" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="14" fill="#f0f6fc">Helm</text>
+<circle cx="537.6" cy="365" r="1.6" fill="#4493f8"/>
+<text x="543.6" y="370" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="14" fill="#f0f6fc">Argo CD</text>
+<circle cx="621.4" cy="365" r="1.6" fill="#4493f8"/>
+<text x="627.4" y="370" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="14" fill="#f0f6fc">Terraform</text>
+<circle cx="479" cy="399" r="1.6" fill="#4493f8"/>
+<text x="485" y="404" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="14" fill="#f0f6fc">CloudFormation</text>
+<circle cx="621.6" cy="399" r="1.6" fill="#4493f8"/>
+<text x="627.6" y="404" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="14" fill="#f0f6fc">GitHub Actions</text>
+<text x="476" y="466" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="13" fill="#4493f8" font-weight="600">monitoring</text>
+<text x="476" y="492" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="17" fill="#f0f6fc" font-weight="600">Observability</text>
+<circle cx="479" cy="519" r="1.6" fill="#4493f8"/>
+<text x="485" y="524" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="14" fill="#f0f6fc">Prometheus</text>
+<circle cx="588.0" cy="519" r="1.6" fill="#4493f8"/>
+<text x="594.0" y="524" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="14" fill="#f0f6fc">Grafana</text>
+<circle cx="671.8" cy="519" r="1.6" fill="#4493f8"/>
+<text x="677.8" y="524" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="14" fill="#f0f6fc">Loki</text>
+</svg>
